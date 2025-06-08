@@ -13,7 +13,7 @@ const HEROES_DATABASE = [
     {
     id: 1,
     name: "Ana",
-    art: "/imgs/ana.png",
+    art: "/src/imgs/ana.png",
     shield: 3,
     health: 12,
     maxHealth: 12,
